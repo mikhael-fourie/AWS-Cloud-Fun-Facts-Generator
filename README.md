@@ -1,4 +1,4 @@
-# Cloud Fun Facts Generator ☁️
+# AI-Enhanced Serverless Web App ☁️
 
 A small serverless web app that serves cloud-computing trivia, rewritten on the fly to be witty by a generative AI model. Built to get hands-on with a multi-service AWS architecture — API Gateway, Lambda, DynamoDB, and Bedrock — behind a lightweight static frontend.
 
